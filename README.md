@@ -1,4 +1,4 @@
-# 🚀 Saroj AWS DevOps Projects
+ AWS DevOps Projects
 
 **A hands-on portfolio of production-grade AWS infrastructure deployments — built from scratch, documented step-by-step.**
 
